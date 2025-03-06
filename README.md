@@ -1,0 +1,6 @@
+- 👋 Hola, soy Daniela Guzmán
+- 👀 Me interesa la informática, la tecnología en general, videojuegos y desarrollo de apps y webs.
+- 🌱 Estoy acabando mi carrera de Desarrollo de Aplicaciones Multiplataformas.
+- 💞️ Quiero colaborar con gente que esté en mi campo o similares, en proyectos pequeños personales o de gran tamaño.
+- 📫 Puedes escribirme para colaborar en danielaguzmanbr@gmail.com
+- ⚡ Fun fact; fuí violinista por 12 años, incluso por muchos años quise entrar al conservatorio y hacerlo mi profesión.  
