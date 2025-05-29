@@ -5,7 +5,7 @@ Soy Daniela, desarrolladora de Apps para iOs y Android.
 - Graduada en desarrollo de aplicaciones para Android e iOS.
 - Estoy dando mis primeros pasos en el desarrollo de aplicaciones para Android e iOS.
 - Trabajo con **Angular** e **Ionic** para crear aplicaciones móviles híbridas.
-- Uso **PHP** y **MySQL** para proyectos de backend sencillos.
+- Uso **PHP** para proyectos de backend sencillos.
 - Me interesa aprender sobre gestión de proyectos y optimización de flujos de trabajo.
 
 ## 💻 Tecnologías principales
