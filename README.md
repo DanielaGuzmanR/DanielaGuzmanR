@@ -1,5 +1,11 @@
-- 👋 Hola, soy Daniela Guzmán
-- 👀 Me interesa la informática, la tecnología en general, videojuegos y desarrollo de apps y softwares en general.
-- 🌱 Estoy acabando mi carrera de Desarrollo de Aplicaciones Multiplataformas.
-- 💞️ Quiero colaborar con gente que esté en mi campo o similares, en proyectos pequeños personales o de gran tamaño.
-- 📫 Puedes escribirme para colaborar en danielaguzmanbr@gmail.com
+Soy Daniela, desarrolladora de Apps para iOs y Android. 
+
+
+ Sobre mí
+- Graduada en desarrollo de aplicaciones para Android e iOS.
+
+## 💻 Tecnologías principales
+- **Frontend**: Angular, Ionic, HTML5, CSS3
+- **Backend**: PHP
+- **Mobile**: Android, iOS
+- **Herramientas y plataformas**: Visual Studio Code
