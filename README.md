@@ -9,7 +9,6 @@ Soy Daniela, desarrolladora de Apps para iOs y Android.
 - Me interesa aprender sobre gestión de proyectos y optimización de flujos de trabajo.
 
 ## 💻 Tecnologías principales
-- **Frontend**: Angular, Ionic, HTML5, CSS3
-- **Backend**: PHP
+- **Frontend**: JavaScript, Angular, Ionic, HTML5, CSS3
 - **Mobile**: Android, iOS
 - **Herramientas y plataformas**: Visual Studio Code
